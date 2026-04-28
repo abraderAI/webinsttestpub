@@ -1,0 +1,13 @@
+{
+  "name": "deft-test-fixture",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Synthetic test fixture for DEFTai webinstaller.",
+  "scripts": {
+    "build": "tsc -p .",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
